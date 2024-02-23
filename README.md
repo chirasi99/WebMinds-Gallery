@@ -20,16 +20,16 @@ Welcome to WebMinds Gallery, a portfolio website showcasing the creative endeavo
  - GitHub for version control and collaboration
 
 ## Home Page
-![Uploading Screenshot 2024-02-23 205827.png…]()
+![Screenshot 2024-02-23 205827](https://github.com/chirasi99/WebMinds-Gallery/assets/87434721/0307b1eb-6a33-4049-ac3f-9312d7e09f53)
 
 ## Aboutme
-![Uploading Screenshot 2024-02-23 205855.png…]()
+![Screenshot 2024-02-23 205855](https://github.com/chirasi99/WebMinds-Gallery/assets/87434721/599b2db9-ae2f-485d-b6c7-fa8647f2b66b)
 
 ## Services
-![Uploading Screenshot 2024-02-23 205914.png…]()
+![Screenshot 2024-02-23 205914](https://github.com/chirasi99/WebMinds-Gallery/assets/87434721/e6175dc5-6f71-4284-a3ce-0d8373a6276a)
 
 ## Testimonials
-![Uploading Screenshot 2024-02-23 205953.png…]()
+![Screenshot 2024-02-23 205953](https://github.com/chirasi99/WebMinds-Gallery/assets/87434721/7b280c7f-d7f3-4fe2-a8eb-c6c5402acd95)
 
 ## Contact
-![Uploading Screenshot 2024-02-23 210022.png…]()
+![Screenshot 2024-02-23 210022](https://github.com/chirasi99/WebMinds-Gallery/assets/87434721/3494c19b-2049-4aea-b423-9d1ed32cfc04)
