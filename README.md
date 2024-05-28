@@ -21,3 +21,6 @@ Welcome to WebMinds Gallery, a portfolio website showcasing the creative endeavo
 
 ![Screenshot 2024-05-28 105001](https://github.com/chirasi99/WebMinds-Gallery/assets/87434721/a1061cea-673a-49a3-8d0f-98490b767c6d)
 
+![Screenshot 2024-05-28 105021](https://github.com/chirasi99/WebMinds-Gallery/assets/87434721/3bd45b40-a3c8-426c-8687-e9cb331bb4d9)
+
+![Screenshot 2024-05-28 105034](https://github.com/chirasi99/WebMinds-Gallery/assets/87434721/eba4dcc9-e9ed-4aaf-8827-68b89058692d)
