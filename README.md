@@ -19,3 +19,8 @@ Welcome to WebMinds Gallery, a portfolio website showcasing the creative endeavo
  - FontAwesome for icons.
  - GitHub for version control and collaboration
 
+![Uploading Screenshot 2024-05-28 105001.png…]()
+
+![Uploading Screenshot 2024-05-28 105021.png…]()
+
+![Uploading Screenshot 2024-05-28 105034.png…]()
